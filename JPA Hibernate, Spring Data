@@ -1,0 +1,20 @@
+# 1-Création d'une entité JPA Patient:
+
+![Patient](https://user-images.githubusercontent.com/91842692/228400650-d40d49a2-9840-43f8-bccc-71c1e4964812.PNG)
+
+# 2-Configuration du fichier application.properties:
+
+![properties](https://user-images.githubusercontent.com/91842692/228401175-00a14cfc-6bdb-4dcf-991a-0eab210b31bc.PNG)
+
+# 3-Création de l'interface PatientRepository:
+
+![repository](https://user-images.githubusercontent.com/91842692/228401347-12f72c9a-73a4-4560-9a1e-9eb8efcc272e.PNG)
+
+# 4-Démarrage de h2database pour générer la base de données + effectuation du test:
+
+![test](https://user-images.githubusercontent.com/91842692/228401783-f70ccb9e-8efc-47a6-aaea-4f7a075fdfeb.PNG)
+
+# 5-Basculement de h2database vers mySql:
+
+![mysql](https://user-images.githubusercontent.com/91842692/228402024-26b244a1-f0af-4ca0-9efd-c49d2c1f8acd.PNG)
+
